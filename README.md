@@ -2,7 +2,7 @@
 
 ## CTO | Technology Executive | Fractional CTO
 
-Helping leadership teams align technology decisions with business outcomes.
+CTO, Technology Executive, and Fractional CTO helping organizations align technology decisions with business outcomes through AI strategy, Kubernetes, cybersecurity, and technology leadership.
 
 I have spent 20+ years building and leading technology organizations across cloud-native infrastructure, Kubernetes, cybersecurity, AI, open source, and digital transformation.
 
@@ -32,11 +32,11 @@ Aligning architecture, engineering organizations, and technology investments wit
 
 ---
 
-## Current Projects
+## Current Work
 
 ### Executive AI Advisor
 
-AI-powered executive decision support platform designed to help leadership teams evaluate:
+AI-powered executive decision support platform designed to help leadership teams evaluate and communicate:
 
 * Technology risk
 * AI readiness
@@ -44,7 +44,7 @@ AI-powered executive decision support platform designed to help leadership teams
 * Technology governance
 * Executive decision making
 
-### Technology Due Diligence
+### Technology Due Diligence and Advisory
 
 Frameworks and tooling for:
 
@@ -55,7 +55,7 @@ Frameworks and tooling for:
 
 Focused on technology risk assessment, scalability, security posture, key-person risk, AI readiness, and value creation opportunities.
 
-### Fractional CTO Operating System
+### CTO Operating System
 
 Playbooks, templates, governance models, assessments, and operating frameworks used to help technology organizations scale predictably.
 
@@ -63,11 +63,9 @@ Playbooks, templates, governance models, assessments, and operating frameworks u
 
 ## Recent Experience
 
-### Fractional CTO
+### Fractional CTO and Technology Advisor
 
-Confidential Gametech Startup
-
-Advising an angel-backed founder on:
+Advising founders and leadership teams on:
 
 * AI platform strategy
 * Local and hybrid LLM deployment
