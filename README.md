@@ -91,9 +91,9 @@ Led initiatives spanning:
 
 ## Selected Certifications
 
-* Certified Kubernetes Administrator (CKA)
-* Certified Kubernetes Application Developer (CKAD)
-* Certified Kubernetes Security Specialist (CKS)
+* Certified Kubernetes Administrator (CKA)  - I authoried the LFS458 Kubernetes for Administration course. In-house SME for cert team.
+* Certified Kubernetes Application Developer (CKAD) - I authoried the LFD459 Kubernetes for Developers course. In-house SME for cert team.
+* Certified Kubernetes Security Specialist (CKS) - I authoried the LFS460 Kubernetes Security Fundamentals course. In-house SME for cert team.
 * Linux Foundation Certified Engineer (LFCE)
 * Red Hat Certified Engineer (RHCE)
 
