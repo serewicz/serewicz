@@ -34,6 +34,12 @@ Aligning architecture, engineering organizations, and technology investments wit
 
 ## Current Work
 
+### Technology Leadership Portfolio
+
+A connected portfolio of CTO methodology, AI-assisted diligence, Kubernetes platform governance, and engineering operating metrics.
+
+[Technology Leadership Portfolio](Technology-Leadership-Portfolio.md)
+
 ### Executive AI Advisor
 
 AI-powered executive decision support platform designed to help leadership teams evaluate and communicate:
