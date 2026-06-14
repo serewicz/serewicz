@@ -55,7 +55,7 @@ Frameworks and tooling for:
 
 Focused on technology risk assessment, scalability, security posture, key-person risk, AI readiness, and value creation opportunities.
 
-### Fractional CTO Operating System
+### [Fractional CTO Operating System](https://github.com/serewicz/cto-operating-system)
 
 Playbooks, templates, governance models, assessments, and operating frameworks used to help technology organizations scale predictably.
 
