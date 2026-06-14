@@ -34,7 +34,7 @@ Aligning architecture, engineering organizations, and technology investments wit
 
 ## Current Projects
 
-### Executive AI Advisor
+### [Executive AI Advisor](https://github.com/serewicz/Executive-AI-Advisor)
 
 AI-powered executive decision support platform designed to help leadership teams evaluate:
 
