@@ -12,6 +12,30 @@ Today I work with founders, CEOs, investors, and growth-stage companies as a CTO
 
 ---
 
+## Connect
+
+🌐 Website
+https://serewicz.com
+
+💼 LinkedIn
+https://www.linkedin.com/in/serewicz/
+
+📅 Schedule a Conversation
+https://calendar.app.google/2KmjiyNZjh3FSQUy7
+
+---
+
+## Current Focus
+
+* Fractional CTO engagements
+* Full-time CTO opportunities
+* Technology strategy and operating models
+* AI governance and executive adoption
+* Technology due diligence for investors and acquirers
+* Board and advisory opportunities
+
+---
+
 ## Areas of Focus
 
 ### AI Strategy & Governance
@@ -97,18 +121,4 @@ Led initiatives spanning:
 * Linux Foundation Certified Engineer (LFCE)
 * Red Hat Certified Engineer (RHCE)
 
----
-
-## Connect
-
-LinkedIn: linkedin.com/in/serewicz
-
 Based in Austin, Texas
-
-Interested in:
-
-* CTO opportunities
-* Fractional CTO engagements
-* Technology advisory roles
-* Technology due diligence
-* Board and advisory opportunities
