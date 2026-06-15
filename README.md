@@ -85,6 +85,16 @@ Playbooks, templates, governance models, assessments, and operating frameworks u
 
 ---
 
+## Executive Case Studies
+
+Representative examples of technology leadership, executive advisory work, platform transformation, and AI-enabled decision support.
+
+* [Executive AI Advisor](case-studies/executive-ai-advisor.md)
+* [Fractional CTO Engagement](case-studies/fractional-cto-gametech.md)
+* [Linux Foundation Transformation](case-studies/linux-foundation-transformation.md)
+
+---
+
 ## Recent Experience
 
 ### Fractional CTO
