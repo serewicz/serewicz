@@ -64,7 +64,7 @@ A connected portfolio of CTO methodology, AI-assisted diligence, Kubernetes plat
 
 [Technology Leadership Portfolio](technology-leadership-portfolio.md)
 
-### Executive AI Advisor
+### [Executive AI Advisor](https://github.com/serewicz/Executive-AI-Advisor)
 
 AI-powered executive decision support platform designed to help leadership teams evaluate and communicate:
 
@@ -85,7 +85,7 @@ Frameworks and tooling for:
 
 Focused on technology risk assessment, scalability, security posture, key-person risk, AI readiness, and value creation opportunities.
 
-### CTO Operating System
+### [Fractional CTO Operating System](https://github.com/serewicz/cto-operating-system)
 
 Playbooks, templates, governance models, assessments, and operating frameworks used to help technology organizations scale predictably.
 
@@ -119,9 +119,9 @@ Led initiatives spanning:
 
 ## Selected Certifications
 
-* Certified Kubernetes Administrator (CKA)
-* Certified Kubernetes Application Developer (CKAD)
-* Certified Kubernetes Security Specialist (CKS)
+* Certified Kubernetes Administrator (CKA)  - I authored the LFS458 Kubernetes for Administration course. In-house SME for cert team.
+* Certified Kubernetes Application Developer (CKAD) - I authored the LFD459 Kubernetes for Developers course. In-house SME for cert team.
+* Certified Kubernetes Security Specialist (CKS) - I authored the LFS460 Kubernetes Security Fundamentals course. In-house SME for cert team.
 * Linux Foundation Certified Engineer (LFCE)
 * Red Hat Certified Engineer (RHCE)
 
