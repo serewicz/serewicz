@@ -4,7 +4,13 @@
 
 CTO, Technology Executive, and Fractional CTO helping organizations align technology decisions with business outcomes through AI strategy, Kubernetes, cybersecurity, and technology leadership.
 
+I have led technology strategy, platform modernization, AI initiatives, cybersecurity programs, acquisition integration, and distributed teams at enterprise scale, including Vice President-level responsibility at The Linux Foundation.
+
 I work with founders, CEOs, boards, investors, and operating partners on technology strategy, AI governance, cybersecurity, platform modernization, technology due diligence, and engineering leadership. My focus is practical: make technology risk visible, connect decisions to business outcomes, clarify ownership, and turn complex technical issues into executable operating plans.
+
+I help boards and investors understand technology risk, operating readiness, governance, and value creation priorities.
+
+I am especially focused on growth-stage companies, portfolio companies, and leadership teams preparing for scale, diligence, acquisition, or modernization.
 
 Most technology failures in growing companies are not isolated engineering failures. They are failures of visibility, governance, prioritization, execution, and measurement. My work is built around helping leadership teams close that gap.
 
@@ -24,11 +30,24 @@ Most technology failures in growing companies are not isolated engineering failu
 - Cybersecurity, technology risk, and board-level reporting
 - PE operating partner, advisory, and board-facing technology work
 
+## What I Help Leadership Teams Do
+
+- Assess technology risk before investment, acquisition, or major growth decisions
+- Prepare companies for growth investment, diligence, scale, and modernization
+- Translate technical findings into business impact, ownership, timelines, and measurable actions
+- Support post-acquisition integration, knowledge transfer, and operating readiness
+- Build practical AI governance, knowledge governance, and risk management approaches
+- Modernize platforms while improving cost visibility, resilience, and execution discipline
+- Scale engineering organizations with clearer roles, operating cadence, and leadership accountability
+- Create board-ready technology reporting for risk, value creation, and strategic decisions
+
 ## Technology Leadership Portfolio
+
+The Technology Leadership Portfolio is the best starting point for understanding how these ideas connect. It shows a practical operating model that moves from methodology to assessment, implementation, and measurement, with an emphasis on governance, execution, operating plans, and measurable outcomes.
 
 My GitHub work is organized as a Technology Leadership Portfolio: a practical system for assessing, operating, governing, implementing, and measuring technology organizations.
 
-[View the Technology Leadership Portfolio](https://github.com/serewicz/technology-leadership-portfolio)
+Start here: [Technology Leadership Portfolio](https://github.com/serewicz/technology-leadership-portfolio)
 
 The portfolio is not a collection of unrelated projects. It represents a connected operating model:
 
