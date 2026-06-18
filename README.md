@@ -4,135 +4,68 @@
 
 CTO, Technology Executive, and Fractional CTO helping organizations align technology decisions with business outcomes through AI strategy, Kubernetes, cybersecurity, and technology leadership.
 
-I have spent 20+ years building and leading technology organizations across cloud-native infrastructure, Kubernetes, cybersecurity, AI, open source, and digital transformation.
+I work with founders, CEOs, boards, investors, and operating partners on technology strategy, AI governance, cybersecurity, platform modernization, technology due diligence, and engineering leadership. My focus is practical: make technology risk visible, connect decisions to business outcomes, clarify ownership, and turn complex technical issues into executable operating plans.
 
-Most recently I served as Vice President at The Linux Foundation, leading technology strategy, platform modernization, AI initiatives, acquisition integration, and global technology programs serving hundreds of thousands of developers and learners worldwide.
-
-Today I work with founders, CEOs, investors, and growth-stage companies as a CTO, Fractional CTO, and technology advisor.
-
----
+Most technology failures in growing companies are not isolated engineering failures. They are failures of visibility, governance, prioritization, execution, and measurement. My work is built around helping leadership teams close that gap.
 
 ## Connect
 
-🌐 Website
-https://serewicz.com
-
-💼 LinkedIn
-https://www.linkedin.com/in/serewicz/
-
-📅 Schedule a Conversation
-https://calendar.app.google/2KmjiyNZjh3FSQUy7
-
----
+- Website: [serewicz.com](https://serewicz.com)
+- LinkedIn: [linkedin.com/in/serewicz](https://www.linkedin.com/in/serewicz/)
+- Schedule a Conversation: [calendar.app.google/2KmjiyNZjh3FSQUy7](https://calendar.app.google/2KmjiyNZjh3FSQUy7)
 
 ## Current Focus
 
-* Fractional CTO engagements
-* Full-time CTO opportunities
-* Technology strategy and operating models
-* AI governance and executive adoption
-* Technology due diligence for investors and acquirers
-* Board and advisory opportunities
+- Fractional CTO and interim technology leadership
+- Full-time CTO opportunities
+- Technology due diligence for investors and acquirers
+- AI governance and executive adoption
+- Kubernetes, cloud-native, and platform modernization strategy
+- Cybersecurity, technology risk, and board-level reporting
+- PE operating partner, advisory, and board-facing technology work
 
----
+## Technology Leadership Portfolio
 
-## Areas of Focus
+My GitHub work is organized as a Technology Leadership Portfolio: a practical system for assessing, operating, governing, implementing, and measuring technology organizations.
 
-### AI Strategy & Governance
+[View the Technology Leadership Portfolio](https://github.com/serewicz/technology-leadership-portfolio)
 
-Helping organizations adopt AI responsibly while balancing business value, cost, security, and operational risk.
+The portfolio is not a collection of unrelated projects. It represents a connected operating model:
 
-### Kubernetes & Cloud Native Platforms
+| Layer | Repository | Purpose |
+|---|---|---|
+| Methodology | [CTO Operating System](https://github.com/serewicz/cto-operating-system) | CTO, diligence, governance, board reporting, and operating partner frameworks |
+| Assessment | [Executive AI Advisor](https://github.com/serewicz/Executive-AI-Advisor) | AI-assisted technology diligence, board briefs, risk scorecards, AI governance assessments, and 100-day plans |
+| Implementation | [K8s Platform Blueprint](https://github.com/serewicz/k8s-platform-blueprint) | Kubernetes governance, FinOps, observability, policy controls, compliance evidence, and platform modernization patterns |
+| Measurement | [Engineering Operating Metrics](https://github.com/serewicz/engineering-operating-metrics) | Delivery flow, review quality, rework, engineering cost, AI usage cost, risk, and governance metrics |
 
-Extensive experience with Kubernetes, Linux, cloud-native infrastructure, platform engineering, and large-scale developer enablement.
+Together, these repositories show how I think about technology leadership: define the framework, assess the company, translate risk into business language, build the operating plan, implement governance patterns, and measure whether execution is improving.
 
-### Cybersecurity & Technology Risk
+## Problems I Help Solve
 
-Technology governance, security strategy, risk management, and technology due diligence.
+I help leadership teams answer questions such as:
 
-### Technology Strategy & Transformation
+- What technology risks could affect growth, margin, security, acquisition value, or operating resilience?
+- Where is the organization dependent on one person, one vendor, one platform, or undocumented knowledge?
+- Which AI use cases are ready for adoption, and which require stronger governance first?
+- What should the board monitor over the next 30, 60, and 90 days?
+- How should engineering, platform, security, and product leaders align around measurable outcomes?
+- What should be fixed before a financing event, acquisition, scale-up phase, or turnaround?
 
-Aligning architecture, engineering organizations, and technology investments with business outcomes.
+The goal is not more technical activity. The goal is better executive decision-making, clearer ownership, better risk management, and stronger technology execution.
 
----
+## Speaking and Advisory Work
 
-## Current Work
+I speak and advise on technology leadership, AI strategy and governance, cybersecurity, open source, cloud-native platforms, Kubernetes, technology due diligence, and executive technology decision-making.
 
-### Technology Leadership Portfolio
+Selected experience includes technology leadership at The Linux Foundation from 2012 to 2026, most recently as Vice President, Technology & Education, where I led work across technology strategy, platform modernization, AI initiatives, cybersecurity programs, acquisition integration, executive alignment, and distributed teams.
 
-A connected portfolio of CTO methodology, AI-assisted diligence, Kubernetes platform governance, and engineering operating metrics.
-
-[Technology Leadership Portfolio](technology-leadership-portfolio.md)
-
-### [Executive AI Advisor](https://github.com/serewicz/Executive-AI-Advisor)
-
-AI-powered executive decision support platform designed to help leadership teams evaluate and communicate:
-
-* Technology risk
-* AI readiness
-* Platform modernization
-* Technology governance
-* Executive decision making
-
-### Technology Due Diligence and Advisory
-
-Frameworks and tooling for:
-
-* PE firms
-* Investors
-* Boards
-* Acquirers
-
-Focused on technology risk assessment, scalability, security posture, key-person risk, AI readiness, and value creation opportunities.
-
-### [Fractional CTO Operating System](https://github.com/serewicz/cto-operating-system)
-
-Playbooks, templates, governance models, assessments, and operating frameworks used to help technology organizations scale predictably.
-
----
+I am based in Austin, Texas, and work with leadership teams that need experienced technology judgment, practical operating models, and clear communication between technical teams and business stakeholders.
 
 ## Executive Case Studies
 
-Representative examples of technology leadership, executive advisory work, platform transformation, and AI-enabled decision support.
+Representative examples of technology leadership, executive advisory work, platform transformation, and AI-enabled decision support:
 
-* [Executive AI Advisor](case-studies/executive-ai-advisor.md)
-* [Fractional CTO Engagement](case-studies/fractional-cto-gametech.md)
-* [Linux Foundation Transformation](case-studies/linux-foundation-transformation.md)
-
----
-
-## Recent Experience
-
-### Fractional CTO and Technology Advisor
-
-Advising founders and leadership teams on:
-
-* AI platform strategy
-* Local and hybrid LLM deployment
-* Kubernetes and cloud-native architecture
-* Platform scalability
-* Technology governance
-* Engineering team design
-
-### Vice President, The Linux Foundation
-
-Led initiatives spanning:
-
-* AI
-* Cybersecurity
-* Kubernetes
-* Open Source
-* Platform Modernization
-* Technology Strategy
-
----
-
-## Selected Certifications
-
-* Certified Kubernetes Administrator (CKA)  - I authored the LFS458 Kubernetes for Administration course. In-house SME for cert team.
-* Certified Kubernetes Application Developer (CKAD) - I authored the LFD459 Kubernetes for Developers course. In-house SME for cert team.
-* Certified Kubernetes Security Specialist (CKS) - I authored the LFS460 Kubernetes Security Fundamentals course. In-house SME for cert team.
-* Linux Foundation Certified Engineer (LFCE)
-* Red Hat Certified Engineer (RHCE)
-
-Based in Austin, Texas
+- [Executive AI Advisor](case-studies/executive-ai-advisor.md)
+- [Fractional CTO Engagement](case-studies/fractional-cto-gametech.md)
+- [Linux Foundation Transformation](case-studies/linux-foundation-transformation.md)
