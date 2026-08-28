@@ -1,18 +1,12 @@
 # Timothy Serewicz
 
-## CTO | Technology Executive | Fractional CTO
+## Technology Executive | CTO | Field CTO | AI & Open Source Strategist
 
-CTO, Technology Executive, and Fractional CTO helping organizations align technology decisions with business outcomes through AI strategy, Kubernetes, cybersecurity, and technology leadership.
+I am a technology executive who can lead technology internally and represent it externally. I help leadership teams understand what emerging technologies actually change, decide where to invest, and turn complex technical choices into business results.
 
-I have led technology strategy, platform modernization, AI initiatives, cybersecurity programs, acquisition integration, and distributed teams at enterprise scale, including Vice President-level responsibility at The Linux Foundation.
+My experience combines internal technology leadership with external representation to customers, partners, boards, investors, governments, and technical communities. My strongest contribution is bridging technical depth and executive decision-making: working credibly with architects and engineering teams, testing assumptions, identifying business consequences, and communicating decisions clearly.
 
-I work with founders, CEOs, boards, investors, and operating partners on technology strategy, AI governance, cybersecurity, platform modernization, technology due diligence, and engineering leadership. My focus is practical: make technology risk visible, connect decisions to business outcomes, clarify ownership, and turn complex technical issues into executable operating plans.
-
-I help boards and investors understand technology risk, operating readiness, governance, and value creation priorities.
-
-I am especially focused on growth-stage companies, portfolio companies, and leadership teams preparing for scale, diligence, acquisition, or modernization.
-
-Most technology failures in growing companies are not isolated engineering failures. They are failures of visibility, governance, prioritization, execution, and measurement. My work is built around helping leadership teams close that gap.
+I am a former Vice President of Education at The Linux Foundation. I led approximately 60 employees and contractors, including nine direct reports and three managers, and influenced approximately $8 million in annual investment. My work has included AI-enabled products, platform modernization, acquisition integration, governance, organizational transformation, and open-source ecosystem leadership.
 
 ## Connect
 
@@ -20,66 +14,60 @@ Most technology failures in growing companies are not isolated engineering failu
 - LinkedIn: [linkedin.com/in/serewicz](https://www.linkedin.com/in/serewicz/)
 - Schedule a Conversation: [calendar.app.google/2KmjiyNZjh3FSQUy7](https://calendar.app.google/2KmjiyNZjh3FSQUy7)
 
-## Current Focus
+## Executive and Market-Facing Leadership
 
-- Fractional CTO and interim technology leadership
-- Full-time CTO opportunities
-- Technology due diligence for investors and acquirers
-- AI governance and executive adoption
-- Kubernetes, cloud-native, and platform modernization strategy
-- Cybersecurity, technology risk, and board-level reporting
-- PE operating partner, advisory, and board-facing technology work
+- Enterprise technology and product strategy
+- AI adoption, governance, and operating models
+- Customer-facing technical strategy and executive briefings
+- Technology diligence and value-creation planning
+- Open-source, developer, and partner ecosystems
+- Platform modernization
+- Cybersecurity and board reporting
+- Organizational transformation and engineering leadership
 
-## What I Help Leadership Teams Do
+## From Architecture to Executive Decision
 
-- Assess technology risk before investment, acquisition, or major growth decisions
-- Prepare companies for growth investment, diligence, scale, and modernization
-- Translate technical findings into business impact, ownership, timelines, and measurable actions
-- Support post-acquisition integration, knowledge transfer, and operating readiness
-- Build practical AI governance, knowledge governance, and risk management approaches
-- Modernize platforms while improving cost visibility, resilience, and execution discipline
-- Scale engineering organizations with clearer roles, operating cadence, and leadership accountability
-- Create board-ready technology reporting for risk, value creation, and strategic decisions
+| Subject | Executive decision or business consequence |
+|---|---|
+| Kubernetes and platform modernization | Decide whether modernization reduces operating risk and cost or merely relocates complexity. I stopped a high-risk Kubernetes migration at a global semiconductor company that could have created multimillion-dollar cost and operating exposure. |
+| Enterprise AI adoption | Select use cases where data readiness, workflow ownership, evaluation, and governance can produce measurable value rather than isolated pilots. |
+| AI replicability | Determine whether an AI capability creates defensible business advantage or can be reproduced quickly by competitors using the same models and tooling. |
+| Cybersecurity and cryptographic readiness | Translate security controls, cryptographic inventory, and post-quantum exposure into investment priorities, accountability, and board-level risk decisions. |
+| Architecture and technical debt | Identify when complexity constrains delivery, margin, resilience, or strategic options. I simplified a financial-services architecture from approximately 8,000 nodes to 10-15 manageable clusters, and recommended retaining colocated infrastructure for a quantitative trading organization where latency created business advantage. |
+
+## Technology Range
+
+- Enterprise AI strategy, RAG, evaluation, knowledge governance, and responsible adoption
+- Linux kernel, enterprise Linux, UNIX, and mission-critical infrastructure
+- Kubernetes, distributed platforms, cloud architecture, and platform engineering
+- Cybersecurity, cryptographic inventory, and post-quantum readiness
+- RISC-V and open-source hardware ecosystem engagement
+- Open-source business, governance, education, and developer ecosystems
+- Quantum technology communication for executives and governments
+
+I do not position myself as the deepest implementer in every domain. My value is understanding complex technologies deeply enough to challenge assumptions, work effectively with specialists, recognize business consequences, and guide executive decisions.
+
+## Speaking and Executive Communication
+
+- Approximately 900 multi-day technical courses delivered
+- 40-50 talks and presentations worldwide
+- Executive and technical quantum courses developed for the World Bank
+- Audiences including engineers, executives, enterprise customers, governments, military organizations, and global technology communities
 
 ## Technology Leadership Portfolio
 
-The Technology Leadership Portfolio is the best starting point for understanding how these ideas connect. It shows a practical operating model that moves from methodology to assessment, implementation, and measurement, with an emphasis on governance, execution, operating plans, and measurable outcomes.
+**Recommended starting point: [Executive AI Advisor](https://github.com/serewicz/Executive-AI-Advisor)** - see how technical evidence becomes cited risk assessments, board briefs, and accountable 100-day plans.
 
-My GitHub work is organized as a Technology Leadership Portfolio: a practical system for assessing, operating, governing, implementing, and measuring technology organizations.
+| Order | Repository | What it demonstrates |
+|---:|---|---|
+| 1 | [Executive AI Advisor](https://github.com/serewicz/Executive-AI-Advisor) | Evidence-based technology diligence, executive decision support, AI governance, board briefs, and 100-day plans |
+| 2 | [CTO Operating System](https://github.com/serewicz/cto-operating-system) | CTO, governance, diligence, board reporting, and operating frameworks |
+| 3 | [Technology Leadership Portfolio](https://github.com/serewicz/technology-leadership-portfolio) | How assessment, governance, implementation, and measurement connect as an executive operating model |
+| 4 | [K8s Platform Blueprint](https://github.com/serewicz/k8s-platform-blueprint) | Platform modernization, FinOps, observability, policy controls, and compliance evidence |
+| 5 | [Engineering Operating Metrics](https://github.com/serewicz/engineering-operating-metrics) | Delivery flow, review quality, rework, cost, risk, and engineering governance metrics |
+| 6 | [HarvestGuard](https://github.com/serewicz/HarvestGuard) | Local-first cryptographic asset inventory and evidence collection for diligence and post-quantum migration planning |
 
-Start here: [Technology Leadership Portfolio](https://github.com/serewicz/technology-leadership-portfolio)
-
-The portfolio is not a collection of unrelated projects. It represents a connected operating model:
-
-| Layer | Repository | Purpose |
-|---|---|---|
-| Methodology | [CTO Operating System](https://github.com/serewicz/cto-operating-system) | CTO, diligence, governance, board reporting, and operating partner frameworks |
-| Assessment | [Executive AI Advisor](https://github.com/serewicz/Executive-AI-Advisor) | AI-assisted technology diligence, board briefs, risk scorecards, AI governance assessments, and 100-day plans |
-| Implementation | [K8s Platform Blueprint](https://github.com/serewicz/k8s-platform-blueprint) | Kubernetes governance, FinOps, observability, policy controls, compliance evidence, and platform modernization patterns |
-| Measurement | [Engineering Operating Metrics](https://github.com/serewicz/engineering-operating-metrics) | Delivery flow, review quality, rework, engineering cost, AI usage cost, risk, and governance metrics |
-
-Together, these repositories show how I think about technology leadership: define the framework, assess the company, translate risk into business language, build the operating plan, implement governance patterns, and measure whether execution is improving.
-
-## Problems I Help Solve
-
-I help leadership teams answer questions such as:
-
-- What technology risks could affect growth, margin, security, acquisition value, or operating resilience?
-- Where is the organization dependent on one person, one vendor, one platform, or undocumented knowledge?
-- Which AI use cases are ready for adoption, and which require stronger governance first?
-- What should the board monitor over the next 30, 60, and 90 days?
-- How should engineering, platform, security, and product leaders align around measurable outcomes?
-- What should be fixed before a financing event, acquisition, scale-up phase, or turnaround?
-
-The goal is not more technical activity. The goal is better executive decision-making, clearer ownership, better risk management, and stronger technology execution.
-
-## Speaking and Advisory Work
-
-I speak and advise on technology leadership, AI strategy and governance, cybersecurity, open source, cloud-native platforms, Kubernetes, technology due diligence, and executive technology decision-making.
-
-Selected experience includes technology leadership at The Linux Foundation from 2012 to 2026, most recently as Vice President, Technology & Education, where I led work across technology strategy, platform modernization, AI initiatives, cybersecurity programs, acquisition integration, executive alignment, and distributed teams.
-
-I am based in Austin, Texas, and work with leadership teams that need experienced technology judgment, practical operating models, and clear communication between technical teams and business stakeholders.
+Together, these repositories show a consistent leadership approach: test technical assumptions, translate findings into business consequences, define accountable action, and measure whether execution improves.
 
 ## Executive Case Studies
 
